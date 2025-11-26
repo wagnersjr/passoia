@@ -1,4 +1,4 @@
-import "./Lancamentos.scss"
+import "./lancamentos.scss"
 
 import kit1 from "../../assets/kit1.png"
 import kit2 from "../../assets/kit2.png"

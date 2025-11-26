@@ -1,4 +1,4 @@
-import "./Main.scss";
+import "./main.scss";
 import banner from "../../assets/bannerPrincipal.png"
 
 

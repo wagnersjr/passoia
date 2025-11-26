@@ -1,8 +1,9 @@
 import { useState } from "react";
-import Header from "./components/header/Header.jsx";
-import Main from "./components/main/Main.jsx";
-import Looks from "./components/looks/Looks.jsx";
-import Lancamentos from "./components/lancamentos/Lancamentos.jsx";
+import Header from "./components/Header/header.jsx";
+import Main from "./components/Main/main.jsx";
+import Looks from "./components/Looks/looks.jsx";
+import Lancamentos from "./components/Lancamentos/lancamentos.jsx";
+import Novidades from "./components/novidades/Novidades.jsx";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Main />
       <Looks />
       <Lancamentos />
+      <Novidades/>
       
     </>
   );

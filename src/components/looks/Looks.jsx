@@ -1,4 +1,4 @@
-import "./Looks.scss";
+import "./looks.scss";
 
 import labios from "../../assets/labios.png";
 import olhos from "../../assets/olhos.png";
