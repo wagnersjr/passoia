@@ -4,6 +4,7 @@ import Main from "./components/Main/main.jsx";
 import Looks from "./components/Looks/looks.jsx";
 import Lancamentos from "./components/Lancamentos/lancamentos.jsx";
 import Novidades from "./components/Novidades/novidades.jsx";
+import Footer from "./components/Footer/footer.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Looks />
       <Lancamentos />
       <Novidades/>
+      <Footer/>
       
     </>
   );
