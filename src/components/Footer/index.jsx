@@ -24,7 +24,7 @@ function Footer() {
       <div className="footer-pagamentos">
         <h4>Formas de Pagamento</h4>
         <figure className="icons-pagamento">
-          <img src={mastercard} alt="Cartão Mastercard" />
+          <img src="mastercard" alt="Cartão Mastercard" />
           <img src={visa} alt="Cartão Visa" />
           <img src={pix} alt="Pagamento via Pix" />
           <img src={boleto} alt="Boleto Bancário" />

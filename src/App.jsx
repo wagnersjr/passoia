@@ -1,16 +1,16 @@
 import { useState } from "react";
-import Header from "./components/Header/header.jsx";
-import Main from "./components/Main/main.jsx";
-import Looks from "./components/Looks/looks.jsx";
-import Lancamentos from "./components/Lancamentos/lancamentos.jsx";
-import Novidades from "./components/Novidades/novidades.jsx";
-import Footer from "./components/Footer/footer.jsx";
+import Header from "./components/Header";
+import Banner from "./components/Banner";
+import Looks from "./components/Looks";
+import Lancamentos from "./components/Lancamentos";
+import Novidades from "./components/Novidades";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
       <Header />
-      <Main />
+      <Banner />
       <Looks />
       <Lancamentos />
       <Novidades/>
